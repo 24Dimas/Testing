@@ -1,0 +1,17 @@
+[01-Mar-2025 05:01:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'aryamedi_user'@'localhost' (using password: YES) in /home/aryamedi/public_html/koneksi.php on line 2
+[01-Mar-2025 05:01:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/aryamedi/public_html/cek_login.php on line 13
+[01-Mar-2025 05:01:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aryamedi/public_html/cek_login.php on line 16
+[01-Mar-2025 05:18:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/aryamedi/public_html/koneksi.php on line 2
+[01-Mar-2025 05:18:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/aryamedi/public_html/cek_login.php on line 13
+[01-Mar-2025 05:18:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aryamedi/public_html/cek_login.php on line 16
+[01-Mar-2025 05:33:23 UTC] PHP Notice:  Undefined variable: id in /home/aryamedi/public_html/tambah_aksi.php on line 12
+[01-Mar-2025 05:51:21 UTC] PHP Notice:  Undefined index: username in /home/aryamedi/public_html/cek_login.php on line 9
+[01-Mar-2025 05:51:21 UTC] PHP Notice:  Undefined index: password in /home/aryamedi/public_html/cek_login.php on line 10
+[01-Mar-2025 06:24:49 UTC] PHP Notice:  Undefined variable: id in /home/aryamedi/public_html/tambah_aksi.php on line 12
+[01-Mar-2025 07:21:20 UTC] PHP Notice:  Undefined variable: id in /home/aryamedi/public_html/tambah_aksi.php on line 12
+[01-Mar-2025 08:46:26 UTC] PHP Notice:  Undefined index: status in /home/aryamedi/public_html/tables.php on line 32
+[01-Mar-2025 08:52:37 UTC] PHP Notice:  Undefined index: username in /home/aryamedi/public_html/cek_login.php on line 9
+[01-Mar-2025 08:52:37 UTC] PHP Notice:  Undefined index: password in /home/aryamedi/public_html/cek_login.php on line 10
+[01-Mar-2025 08:53:14 UTC] PHP Notice:  Undefined variable: id in /home/aryamedi/public_html/tambah_aksi.php on line 12
+[01-Mar-2025 08:59:35 UTC] PHP Notice:  Undefined index: status in /home/aryamedi/public_html/tables.php on line 32
+[01-Mar-2025 11:21:42 UTC] PHP Notice:  Undefined index: status in /home/aryamedi/public_html/tables.php on line 34
